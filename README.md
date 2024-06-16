@@ -22,8 +22,8 @@ This Django project includes a set of APIs built with Django Rest Framework (DRF
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/obaidois/eventManagementBackend.git
-    cd eventManagementBackend
+    git clone https://github.com/obaidois/event_manager_backend.git
+    cd event_manager_backend
     ```
 
 2. Create a virtual environment and activate it:
